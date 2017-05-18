@@ -23,4 +23,4 @@ Time passed: 20.355118 sec
 
 result image will save as "crp/decrp_{mode}.bmp"
 
-test on OSX with python 3.4.1
+test on macOS with python 3.4.1
